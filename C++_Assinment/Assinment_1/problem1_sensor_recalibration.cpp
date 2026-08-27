@@ -3,7 +3,7 @@ using namespace std;
 
 // original bag V1
 void resetSensorPairV1(int reading1, int reading2)
-{ //<--- void function not return a value
+{ 
     int temp = reading1;
     reading1 = reading2;
     reading2 = temp;
@@ -11,14 +11,14 @@ void resetSensorPairV1(int reading1, int reading2)
 
 // V2 call by refrence
 void resetSensorPairV2(int &reading1, int &reading2)
-{ //<--- void function not return a value
+{ 
     int temp = reading1;
     reading1 = reading2;
     reading2 = temp;
 }
 
 void resetSensorPairV3(int *reading1, int *reading2)
-{ //<--- void function not return a value
+{ 
     int temp = *reading1;
     *reading1 = *reading2;
     *reading2 = temp;
