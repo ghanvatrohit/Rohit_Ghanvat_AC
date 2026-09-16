@@ -1,0 +1,10 @@
+# Compiled Java files
+*.class
+
+# Compiled C++ binaries
+*.exe
+*.o
+*.obj
+
+# VS Code config (optional)
+.vscode/
