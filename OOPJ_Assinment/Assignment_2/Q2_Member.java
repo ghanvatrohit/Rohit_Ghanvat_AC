@@ -1,4 +1,4 @@
-package OOPJ_Assinment.Assignment_2;
+package Assignment_2;
 
 class Member {
 
