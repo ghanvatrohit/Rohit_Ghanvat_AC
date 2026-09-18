@@ -1,4 +1,4 @@
-package OOPJ_Assinment.ForLoop;
+package ForLoop;
 
 public class Q1_OddNumbers {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPJ_Assinment.ForLoop;
+package ForLoop;
 
 public class Q4_StarPattern {
     public static void main(String[] args) {

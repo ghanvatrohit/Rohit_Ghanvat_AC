@@ -1,4 +1,4 @@
-package OOPJ_Assinment.ForLoop;
+package ForLoop;
 
 public class Q3_Every7thNumber {
     public static void main(String[] args) {
