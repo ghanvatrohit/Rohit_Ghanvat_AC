@@ -1,3 +1,4 @@
+package Array;
 public class Q4_ArrayAverage {
 	public static void main(String[] args) {
 		System.out.println("Enter size of array: ");

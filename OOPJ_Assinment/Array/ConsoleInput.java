@@ -1,4 +1,4 @@
-package OOPJ_Assinment.Array;
+package Array;
 
 public class ConsoleInput {
 

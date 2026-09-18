@@ -1,3 +1,4 @@
+package Array;
 public class Q3_ArraySumLogic {
 	private int[] numbers;
 	

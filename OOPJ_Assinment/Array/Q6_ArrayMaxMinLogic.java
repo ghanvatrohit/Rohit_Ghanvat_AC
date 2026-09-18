@@ -1,3 +1,4 @@
+package Array;
 public class Q6_ArrayMaxMinLogic {
 	private int[] numbers;
 	

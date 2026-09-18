@@ -1,4 +1,4 @@
-
+package Array;
 public class Q3_ArraySum {
 	public static void main(String[] args) {
 		

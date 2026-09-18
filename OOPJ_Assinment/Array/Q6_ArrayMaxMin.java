@@ -1,3 +1,4 @@
+package Array;
 public class Q6_ArrayMaxMin {
 	public static void main(String[] argc) {
 		System.out.print("Enter size of array: ");

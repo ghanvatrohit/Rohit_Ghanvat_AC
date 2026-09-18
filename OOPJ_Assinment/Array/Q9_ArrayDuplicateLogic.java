@@ -1,3 +1,4 @@
+package Array;
 public class Q9_ArrayDuplicateLogic {
 	private int[] numbers;
 	

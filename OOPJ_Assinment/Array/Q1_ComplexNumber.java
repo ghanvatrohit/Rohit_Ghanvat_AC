@@ -1,3 +1,4 @@
+package Array;
 public class Q1_ComplexNumber {
     public static void main(String[] args) {
         Q1_ComplexNumberLogic[] list = new Q1_ComplexNumberLogic[5];

@@ -1,3 +1,4 @@
+package Array;
 public class Q7_ArrayReverse {
 	public static void main(String[] args) {
 		System.out.println("Enter size of array:");

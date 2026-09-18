@@ -1,3 +1,4 @@
+package Array;
 public class Q4_ArrayAverageLogic {
 	private int[] numbers;
 	

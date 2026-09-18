@@ -1,4 +1,4 @@
-
+package Array;
 public class Q10_CommonElementsLogic {
 	private int[] firstArray;
 	private int[] secondArray;

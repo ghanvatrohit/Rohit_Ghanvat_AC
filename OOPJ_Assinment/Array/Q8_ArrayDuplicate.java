@@ -1,3 +1,4 @@
+package Array;
 public class Q8_ArrayDuplicate {
 	public static void main(String[] args) {
 		System.out.println("Enter size of array: ");

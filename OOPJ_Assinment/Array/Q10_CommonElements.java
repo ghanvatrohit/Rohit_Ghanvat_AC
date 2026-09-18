@@ -1,3 +1,4 @@
+package Array;
 public class Q10_CommonElements {
 
     public static void main(String[] args) {

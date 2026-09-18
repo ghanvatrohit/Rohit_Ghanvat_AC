@@ -1,3 +1,4 @@
+package Array;
 public class Q8_ArrayDuplicateLogic {
 	private int[] numbers;
 	
