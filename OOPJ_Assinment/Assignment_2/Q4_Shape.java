@@ -33,6 +33,7 @@ public class Q4_Shape {
     public static void main(String[] args) {
 
         Square square = new Square();
+        Circle circle = new Circle();
 
         // Method of Shape class using Square object
         square.printShape();
@@ -42,6 +43,12 @@ public class Q4_Shape {
 
         // Method of Square class using Square object
         square.printSquare();
+
+        // Method of Shape class using Circle object
+        circle.printShape();
+
+        // Method of Circle class using Circle object
+        circle.printCircle();
     }
 }
 

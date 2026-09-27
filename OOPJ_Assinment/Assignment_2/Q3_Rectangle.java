@@ -1,8 +1,8 @@
 package Assignment_2;
 class Rectangle {
 
-    private float length;
-    private float breadth;
+    private final float length;
+    private final float breadth;
 
     // Parameterized Constructor
     Rectangle(float length, float breadth) {
