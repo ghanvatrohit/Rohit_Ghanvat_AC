@@ -174,6 +174,7 @@ public class AttendanceReport {
 
         if (size <= 0) {
             System.out.println("Invalid size.");
+            sc.close();
             return;
         }
 
