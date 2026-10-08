@@ -1,5 +1,3 @@
-package array_practice;
-
 import java.util.Scanner;
 
 class MaxMin {
